@@ -1,0 +1,13 @@
+{
+    "name": "huanyu",
+    "engines":{
+        "node":"*"
+    },
+
+    "scripts": {
+        "start": "http-server"
+    },
+    "dependencies": {
+        "http-server":"*"
+    }
+}
